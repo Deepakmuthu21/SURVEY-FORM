@@ -1,0 +1,1 @@
+Welcome to the Simple Survey Form project! This repository contains a basic survey form template built using HTML , CSS and BOOTSTARP. The purpose of this project is to provide a starting point for creating simple surveys or forms for various purposes.

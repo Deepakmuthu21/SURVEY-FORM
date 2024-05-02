@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.asstric{
+    color: red;
+}
+.col{
+    border-width: 30% !important;
+}
+.fa{
+    color: orange;
+    font-size: x-large;
+}
+.table-striped-custom tr:nth-child(even){
+    background-color: brown;
+}
+button{
+    padding: 15px;
+    margin: 15px;
+}
+#textarea{
+    margin: 20px;
+}
+.name,.mail,.rating,.np,.satisfied,.likely,.Hcontent{
+    padding: 20px;
+}
+.bttn{
+    margin: 20px;
+}
+.text{
+    padding: 20px;
+}
+textarea{
+    overflow: auto;
+}
+.bor{
+    border: 1px solid rgb(3, 2, 2) !important;
+    width: 300px !important;
+    
+}
+.bor1{
+    border: 1px solid rgb(3, 2, 2) !important;
+
+
+}
+.last{
+    margin-right: 100px !important;
+}
